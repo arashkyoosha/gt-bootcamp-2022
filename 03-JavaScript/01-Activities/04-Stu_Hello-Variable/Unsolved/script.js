@@ -16,11 +16,18 @@ console.log(funFact);
 // console.log variable
 
 personName = "jim";
+pets = 2;
+funFact = "don't have one";
 
 console.log("hello my name is " + personName);
+console.log("I have  " + pets);
+console.log("Here's a fun fact: " + funFact)
+
 // reassign var
 // reassign var
 // reassign var
+
+
 
 // console.log variable
 // console.log variable
