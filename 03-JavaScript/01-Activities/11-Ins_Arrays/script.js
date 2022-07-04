@@ -4,7 +4,7 @@ var pets = 3;
 var isStudent = true;
 
 // To store groups of data in a single variable, we use arrays
-var names = ["Andre", "Karl", "Rashida", "Olivia"];
+var names = ["Andre", "Karl", "Rashida", "Olivia", "Arashk", "Jafaar", "Sanam"];
 
 // The entire array can be accessed by using the array's name 
 console.log(names);

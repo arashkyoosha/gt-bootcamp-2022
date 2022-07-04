@@ -14,3 +14,8 @@ console.log(planet.name);
 	
 // Uses bracket notation and logs "Earth"
 console.log(planet["name"]);
+
+console.log(planet.moons)
+console.log(planet["moons"])
+
+

@@ -5,8 +5,8 @@ var d = c % b;
 var e = c / 2;
 var f = NaN;
 
-var expression1 = b === e;
-var expression2 = e < d;
+var expression1 = b === d;
+var expression2 = e < a;
 
 // Use comparison operators so all expressions below log to the console as true
 console.log(+a === b);
@@ -22,6 +22,6 @@ console.log(expression1 && !expression2);
 console.log(expression1 || expression2);
 
 //Bonus Area
-console.log(f);
-console.log(typeof f);
-console.log(f / 0);
+// console.log(f);
+// console.log(typeof f);
+// console.log(f / 0);
